@@ -45,14 +45,6 @@ Trabajo principalmente con **APIs**, **bases de datos** y aplicaciones web moder
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=joacolasca&show_icons=true&count_private=true&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joacolasca&layout=compact&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joacolasca&hide_border=true" />
-
----
-
 ## 🌐 Redes sociales
 <a href= "www.linkedin.com/in/joaquín-lasca-5330372ab">
   <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/>
