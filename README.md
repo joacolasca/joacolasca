@@ -46,14 +46,11 @@ Trabajo principalmente con **APIs**, **bases de datos** y aplicaciones web moder
 ---
 
 ## 🌐 Redes sociales
-<a href= "www.linkedin.com/in/joaquín-lasca-5330372ab">
+<a href= "https://www.linkedin.com/in/joaqu%C3%ADn-lasca-5330372ab/">
   <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/>
 </a>
 <a href="https://www.instagram.com/joacolasca_?igsh=ZXd5cm9kaHNuMDF2&utm_source=qr">
   <img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
-<a href = "joaquinlasc@gmail.com">
-  <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href = "https://github.com/joacolasca">
   <img src = "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
